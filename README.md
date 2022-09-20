@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats Preview
+# Frontend Mentor | QR code component
 
 ### Links
 
@@ -8,7 +8,7 @@ ss
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Grid
+- CSS
 
 
 
